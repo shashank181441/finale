@@ -1,0 +1,36 @@
+[{
+        "category": "momo",
+        "foods": [{
+                "name": "Veg MOMO",
+                "price": 320,
+                "image": "images/dfd.png"
+            },
+            {
+                "name": "Buff Momo",
+                "price": 420,
+                "image": "images/dfd.png"
+            },
+            {
+                "name": "Chicken momo",
+                "price": 520,
+                "image": "images/dfd.png"
+            }
+        ]
+    },
+    {
+        "category": "Chaumein",
+        "foods": [{
+                "name": "Veg Chaumein",
+                "price": 50,
+                "ïmage": "images/dfd.png"
+
+            },
+            {
+                "name": "Chicken Chaumein",
+                "price": 100,
+                "ïmage": "images/dfd.png"
+
+            }
+        ]
+    }
+]
